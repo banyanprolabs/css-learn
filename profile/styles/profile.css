@@ -5,18 +5,22 @@
 .profile-name {
     font-family: Playball;
     font-size: 45px;
+    color: #99035d
 }
 
 .role {
-    font-family: "Nixie One"
+    font-family: "Nixie One";
+    color: #003e85
 }
 
 .location {
-    font-family: "Nixie One"
+    font-family: "Nixie One";
+    color: #850085
 }
 
 .section {
-    font-family: "Nixie One"
+    font-family: "Nixie One";
+    color: #b80000
 }
 
 .skill {
@@ -28,9 +32,11 @@
     font-family: "Kufam";
     font-size: 12px;
     font-weight: bold;
+    color: #777
 }
 
 .detail {
     font-family: "Kufam";
-    font-size: 12px
+    font-size: 12px;
+    color: #999
 }

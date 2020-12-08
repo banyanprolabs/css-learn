@@ -11,3 +11,22 @@ input {
 select {
     font-family: Abel
 }
+
+.nav {
+    background-color: #142850;
+    color: #00909E;
+}
+
+.logo {
+    color: #DAE1E7
+}
+
+.nav-item {
+    font-size: 1.25rem;
+    font-weight: bold;
+    color: #00909E;
+}
+
+.heading {
+    color: #00909E;
+}
