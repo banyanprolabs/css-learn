@@ -42,5 +42,16 @@ select {
 
 .heading {
     color: #00909E;
-    clear: both
+    clear: both;
+    margin-left: 1rem
+}
+
+.destination {
+    float: left;
+    margin-left: 1rem
+}
+
+.destination-image {
+    max-width: 100%;
+    max-height: 300px
 }
