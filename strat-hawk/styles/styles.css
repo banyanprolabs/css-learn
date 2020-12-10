@@ -181,11 +181,50 @@ input, select, button {
     width: 20rem;
     background-color: #142850;
     padding: 1rem;
-    margin: 1rem
+    margin: 1rem;
+    position: absolute;
+    left: 50rem;
+    top: 7rem
 }
 
 .search-element-container {
     display: grid;
     grid-template-columns: 1fr 1fr;
     grid-gap: 0.5rem
+}
+
+.banner-image {
+    width: 100%;
+    position: relative
+}
+
+.shading {
+    width: 100%;
+    height: 35rem;
+    position: absolute;
+    opacity: 0.2;
+    background-color: #00909e;
+    top: 5rem
+}
+
+.banner-text {
+    width: 38rem;
+    position: absolute;
+    top: 5rem;
+    left: 3rem;
+    opacity: 0.8;
+    font-size: 5rem;
+    padding: 3rem;
+    color: #00909e
+}
+
+.heading-recommended-flights {
+    margin-left: 1rem;
+    color: #DAE1E7;
+}
+
+.recommended-flights {
+    position: absolute;
+    top: 23rem;
+    background-color: rgba(20, 40, 80, 0.4);
 }
